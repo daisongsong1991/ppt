@@ -12,7 +12,7 @@
 	4. 对多次相同网路请求处理繁琐
 
 #### 一条网路请求的套路
-	![image](res/old_step1.png)
+	![image](res/old_step1.png "title")
 
 
 
@@ -28,3 +28,9 @@
 	okhttp实现，okhttp原理
 
 ## MORE
+
+1. 工程中接口数量以及估计时间
+2. 上传至仓库
+3. 性能方面
+
+com.netease.common.log.NTLog.exception(e)；
